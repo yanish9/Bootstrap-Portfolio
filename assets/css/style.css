@@ -1,0 +1,25 @@
+img {
+width: 200px;
+height: 200px;
+margin: 20px 0px;
+}
+
+.icon{
+   float:left;
+   width: 50px;
+   height: 50px; 
+   margin: 20px
+}
+
+.pan{
+    margin: 20px;
+}
+
+.all{
+    overflow: auto;
+    background-color: #A39797
+}
+
+.main{
+    background-color: #FFF6F6
+}
